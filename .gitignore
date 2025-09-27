@@ -25,4 +25,4 @@ dist-ssr
 *.sw?
 
 # ML Models (large binary files)
-public/models/
+

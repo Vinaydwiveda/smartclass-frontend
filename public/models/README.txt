@@ -1,0 +1,1 @@
+Place face-api.js pretrained model files here (tiny_face_detector_model, face_landmark_68, face_recognition).
