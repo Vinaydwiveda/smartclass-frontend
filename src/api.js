@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: '/api', // use proxy for development
+  baseURL: 'https://smartclassroom-backend.onrender.com', // use proxy for development
 });
 
 export default API;
